@@ -18,4 +18,4 @@ Navigate to `pycasts/` and start the Django development server:
 (.venv) $ python manage.py runserver
 ```
 
-You can now navigate to `localhost:8000` in your browser and inspect the finished project. You can also take a look at the project at certain steps as described in the associated tutorial.
+You can now navigate to `localhost:8000` in your browser and inspect the finished project.
