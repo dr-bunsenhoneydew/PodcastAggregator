@@ -11,10 +11,10 @@ Create and activate a [Python virtual environment](https://realpython.com/python
 
 You can find the `requirements.txt` file in `source_code_setup/requirements.txt`.
 
-Navigate to `source_code_final/` and start the Django development server:
+Navigate to `pycasts/` and start the Django development server:
 
 ```bash
-(.venv) $ cd source_code_final
+(.venv) $ cd pycasts
 (.venv) $ python manage.py runserver
 ```
 
